@@ -107,3 +107,4 @@ E:\GitHubClone\GitHubTrail\GitHubTrail\bin\Microsoft.Owin.Security.Twitter.xml
 E:\GitHubClone\GitHubTrail\GitHubTrail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\GitHubClone\GitHubTrail\GitHubTrail\obj\Debug\GitHubTrail.dll
 E:\GitHubClone\GitHubTrail\GitHubTrail\obj\Debug\GitHubTrail.pdb
+E:\GitHubClone\GitHubTrail\GitHubTrail\obj\Debug\GitHubTrail.csprojResolveAssemblyReference.cache
